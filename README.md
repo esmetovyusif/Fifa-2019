@@ -1,4 +1,5 @@
 **⚽ FIFA 2019 Data Analysis Project**
+
 📌 Layihə haqqında
 
 Bu layihə FIFA 2019 dataset-i üzərində aparılan data analizi və vizuallaşdırma işlərini əhatə edir. Layihənin əsas məqsədi futbolçuların statistik göstəricilərini analiz edərək mənalı nəticələr əldə etmək və bu nəticələri vizual formada təqdim etməkdir.
@@ -9,11 +10,6 @@ Bu layihə FIFA 2019 dataset-i üzərində aparılan data analizi və vizuallaş
 - Beynəlxalq Reputasiya və Oyunçu Potensialı - İstifadə olunan ayaq arasındakı əlaqə
 - Oyunçuların Potensialları və Gücləri arasında əlaqə
 - Oyunçuların Potensialları və Gücləri-İstifadə olunan ayaq arasında
-
-
-![Dashboard](images/python_dashboard.png)
-
-
 
 
 **İstifadə olunan texnologiyalar**
@@ -29,6 +25,7 @@ Matplotlib – vizuallaşdırma
 Seaborn – statistik qrafiklər
 
 Jupyter Notebook
-
+![Dashboard](images/python_dashboard.png)
+![Dashboard](images/dashboard.png)
 
 Layihə data analitika bacarıqlarının (data cleaning, data transformation, visualization, analysis) inkişaf etdirilməsi məqsədi ilə hazırlanmışdır.
